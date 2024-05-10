@@ -1,14 +1,14 @@
 import React, { useState } from "react";
 import { MdKeyboardArrowRight, MdKeyboardArrowDown } from "react-icons/md";
 import { GoHome } from "react-icons/go";
-import bulb from "../assests/bulb.png";
-import speaker from "../assests/Speaker.png";
-import Reload from "../assests/Reload.png";
-import Left from "../assests/Left.png";
-import Right from "../assests/Right.png";
-import Zoom from "../assests/Zoom.png";
-import Hyggex from "../assests/Hyggex.png";
-import Plus from "../assests/Plus.png";
+import bulb from "../assets/bulb.png";
+import speaker from "../assets/Speaker.png";
+import Reload from "../assets/Reload.png";
+import Left from "../assets/Left.png";
+import Right from "../assets/Right.png";
+import Zoom from "../assets/Zoom.png";
+import Hyggex from "../assets/Hyggex.png";
+import Plus from "../assets/Plus.png";
 
 const Middle = () => {
   const [activeItem, setActiveItem] = useState("Relation and Function");

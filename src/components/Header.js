@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import CompanyIcon from "../assests/CompanyIcon.png";
+import CompanyIcon from "../assets/CompanyIcon.png";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoCloseSharp } from "react-icons/io5";
 
