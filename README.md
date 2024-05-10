@@ -63,7 +63,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Demo
+
+Check out the live demo of the application at : [LIVE](https://hyggex-assignment-nine.vercel.app/)
 
 ### `npm run build` fails to minify
 
